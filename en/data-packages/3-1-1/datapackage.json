@@ -12,12 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZW00",
+                "ZW01",
+                "ZW02",
+                "ZW03",
+                "ZW04",
+                "ZW05",
+                "ZW06",
+                "ZW07",
+                "ZW08",
+                "ZW09",
+                ""
+              ]
+            },
+            "title": "REF_AREA"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
