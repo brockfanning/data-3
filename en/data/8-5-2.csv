@@ -1,34 +1,34 @@
-Year,REF_AREA,SEX,Value
-2023,,M,2.2
-2023,ZW00,M,0.0
-2023,ZW01,M,0.0
-2023,ZW02,M,0.0
-2023,ZW03,M,0.0
-2023,ZW04,M,8.6
-2023,ZW05,M,0.0
-2023,ZW06,M,0.0
-2023,ZW07,M,0.0
-2023,ZW08,M,0.0
-2023,ZW09,M,0.0
-2023,,F,13.7
-2023,ZW00,F,37.5
-2023,ZW01,F,29.2
-2023,ZW02,F,0.0
-2023,ZW03,F,20.2
-2023,ZW04,F,0.0
-2023,ZW05,F,0.0
-2023,ZW06,F,0.0
-2023,ZW07,F,18.8
-2023,ZW08,F,0.0
-2023,ZW09,F,0.0
+Year,Reference area,Sex,Value
+2023,,Male,2.2
+2023,Bulawayo,Male,0.0
+2023,Manicaland,Male,0.0
+2023,Mashonaland Central,Male,0.0
+2023,Masholanad East,Male,0.0
+2023,Mashonaland West,Male,8.6
+2023,Matabeland North,Male,0.0
+2023,Matabeland South,Male,0.0
+2023,Midlands,Male,0.0
+2023,Masvingo,Male,0.0
+2023,Harare,Male,0.0
+2023,,Female,13.7
+2023,Bulawayo,Female,37.5
+2023,Manicaland,Female,29.2
+2023,Mashonaland Central,Female,0.0
+2023,Masholanad East,Female,20.2
+2023,Mashonaland West,Female,0.0
+2023,Matabeland North,Female,0.0
+2023,Matabeland South,Female,0.0
+2023,Midlands,Female,18.8
+2023,Masvingo,Female,0.0
+2023,Harare,Female,0.0
 2023,,,6.8
-2023,ZW00,,22.0
-2023,ZW01,,11.6
-2023,ZW02,,0.0
-2023,ZW03,,9.4
-2023,ZW04,,6.0
-2023,ZW05,,0.0
-2023,ZW06,,0.0
-2023,ZW07,,9.4
-2023,ZW08,,0.0
-2023,ZW09,,0.0
+2023,Bulawayo,,22.0
+2023,Manicaland,,11.6
+2023,Mashonaland Central,,0.0
+2023,Masholanad East,,9.4
+2023,Mashonaland West,,6.0
+2023,Matabeland North,,0.0
+2023,Matabeland South,,0.0
+2023,Midlands,,9.4
+2023,Masvingo,,0.0
+2023,Harare,,0.0
