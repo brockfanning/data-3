@@ -48,7 +48,6 @@ inputs:
       - REPORTING_TYPE
       - NATURE
       - TIME_PERIOD
-    import_codes: true
     import_series_attributes: true
     import_observation_attributes: true
   - class: InputWordMeta
