@@ -51,8 +51,10 @@ inputs:
     import_codes: true
     import_series_attributes: true
     import_observation_attributes: true
+  - class: InputWordMeta
+    path_pattern: meta/*-*.docm
   - class: InputYamlMeta
-    path_pattern: indicator-config/*-*.yml
+    path_pattern: meta/*-*.yml
     git: false
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
