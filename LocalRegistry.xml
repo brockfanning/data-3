@@ -3,7 +3,7 @@
   <message:Header>
     <message:ID>IREF003321</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2024-02-07T15:21:13.5832643+02:00</message:Prepared>
+    <message:Prepared>2024-06-14T16:15:49.2885209+02:00</message:Prepared>
     <message:Sender id="Unknown" />
     <message:Receiver id="not_supplied" />
   </message:Header>
@@ -51370,72 +51370,62 @@ The main objectives of the Bank are listed and prioritized in the Bank of Israel
           <common:Name xml:lang="en">Zimbabwe</common:Name>
           <common:Description xml:lang="en">Zimbabwe</common:Description>
         </structure:Code>
-        <structure:Code id="ZW00">
+        <structure:Code id="ZW_BA">
           <common:Name xml:lang="en">Bulawayo</common:Name>
-          <common:Description xml:lang="en">Bulawayo</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
         </structure:Code>
-        <structure:Code id="ZW01">
+        <structure:Code id="ZW_MA">
           <common:Name xml:lang="en">Manicaland</common:Name>
-          <common:Description xml:lang="en">Manicaland</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
         </structure:Code>
-        <structure:Code id="ZW02">
+        <structure:Code id="ZW_MC">
           <common:Name xml:lang="en">Mashonaland Central</common:Name>
-          <common:Description xml:lang="en">Mashonaland Central</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
         </structure:Code>
-        <structure:Code id="ZW03">
+        <structure:Code id="ZW_ME">
           <common:Name xml:lang="en">Masholanad East</common:Name>
-          <common:Description xml:lang="en">Masholanad East</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
         </structure:Code>
-        <structure:Code id="ZW04">
+        <structure:Code id="ZW_MW">
           <common:Name xml:lang="en">Mashonaland West</common:Name>
-          <common:Description xml:lang="en">Mashonaland West</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
         </structure:Code>
-        <structure:Code id="ZW05">
+        <structure:Code id="ZW_MN">
           <common:Name xml:lang="en">Matabeland North</common:Name>
-          <common:Description xml:lang="en">Matabeland North</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
         </structure:Code>
-        <structure:Code id="ZW06">
+        <structure:Code id="ZW_MS">
           <common:Name xml:lang="en">Matabeland South</common:Name>
-          <common:Description xml:lang="en">Matabeland South</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
         </structure:Code>
-        <structure:Code id="ZW07">
+        <structure:Code id="ZW_MI">
           <common:Name xml:lang="en">Midlands</common:Name>
-          <common:Description xml:lang="en">Midlands</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
         </structure:Code>
-        <structure:Code id="ZW08">
+        <structure:Code id="ZW_MV">
           <common:Name xml:lang="en">Masvingo</common:Name>
-          <common:Description xml:lang="en">Masvingo</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
         </structure:Code>
-        <structure:Code id="ZW09">
+        <structure:Code id="ZW_HA">
           <common:Name xml:lang="en">Harare</common:Name>
-          <common:Description xml:lang="en">Harare</common:Description>
           <structure:Parent>
             <Ref id="ZW" />
           </structure:Parent>
