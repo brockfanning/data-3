@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Primary and Secondary Education_EMIS_2019",
+                "Ministry of Primary and Secondary Education_EMIS_2020",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pre-primary education",
+                "Primary education",
+                "Lower secondary education",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat ,Education report",
+                "Zimstat , Education report",
+                "Zimstat ,2022 PHC",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZIMSTAT, 2022 PHC",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
           },
           {
             "name": "Value",

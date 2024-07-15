@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2019,2019,2019],"SOURCE_DETAIL":["Ministry of Primary and Secondary Education_EMIS_2019","Ministry of Primary and Secondary Education_EMIS_2020","Ministry of Primary and Secondary Education_EMIS_2019"],"Education level":["Pre-primary education","Primary education","Lower secondary education"],"Value":[58.8,97.1,85.5]},"edges":{"From":["SOURCE_DETAIL"],"To":["Education level"]}}

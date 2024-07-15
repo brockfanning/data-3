@@ -19,16 +19,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ZW00",
-                "ZW01",
-                "ZW02",
-                "ZW03",
-                "ZW04",
-                "ZW05",
-                "ZW06",
-                "ZW07",
-                "ZW08",
-                "ZW09",
+                "Harare",
+                "Bulawayo",
+                "Manicaland",
+                "Mashonaland Central",
+                "Masholanad East",
+                "Mashonaland West",
+                "Matabeland North",
+                "Matabeland South",
+                "Midlands",
+                "Masvingo",
                 ""
               ]
             }
@@ -38,8 +38,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 24 years old",
                 ""
               ]
             }

@@ -1,1 +1,4 @@
-Year,Value
+Year,SOURCE_DETAIL,Education level,Value
+2019,Ministry of Primary and Secondary Education_EMIS_2019,Pre-primary education,58.8
+2019,Ministry of Primary and Secondary Education_EMIS_2020,Primary education,97.1
+2019,Ministry of Primary and Secondary Education_EMIS_2019,Lower secondary education,85.5

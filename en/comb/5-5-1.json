@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2019,2022,2015,2019],"Source details":["ZIMSTAT","Zimstat, 2022 PHC","ZIMSTAT","ZIMSTAT"],"Age":["20 to 24 years old","20 to 24 years old",null,null],"Value":[33.7,16.2,31.9,37.7]},"edges":{"From":["Source details"],"To":["Age"]}}

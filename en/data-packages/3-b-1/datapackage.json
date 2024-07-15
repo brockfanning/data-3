@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1]",
+                "Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1]",
+                "Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
           },
           {
             "name": "Value",

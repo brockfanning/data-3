@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZIMSTAT_ZDHS_2015",
+                "Zimstat_ICDS_2017",
+                "Zimstat_MICS_2019",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

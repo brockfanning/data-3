@@ -1,1 +1,5 @@
-Year,Value
+Year,Sex,Age,Value
+2019,Female,15 to 24 years old,14.7
+2019,Female,15 to 49 years old,13.1
+2019,Male,15 to 24 years old,21.6
+2019,Male,15 to 49 years old,22.3

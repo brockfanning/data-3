@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat_LFCLS_2014",
+                "Zimstat_ICDS_2017",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

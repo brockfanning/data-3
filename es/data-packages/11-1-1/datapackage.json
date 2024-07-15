@@ -12,8 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ZIMSTAT, Labourforce Survey",
+                "Zimstat, 2022 PHC",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Reference area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulawayo",
+                "Manicaland",
+                "Mashonaland Central",
+                "Masholanad East",
+                "Mashonaland West",
+                "Matabeland North",
+                "Matabeland South",
+                "Midlands",
+                "Masvingo",
+                "Harare",
+                ""
+              ]
+            },
+            "title": "Reference area"
           },
           {
             "name": "Value",

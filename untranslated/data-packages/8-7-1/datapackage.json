@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zimstat",
+                "ZIMSTAT, Labourforce Survey",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

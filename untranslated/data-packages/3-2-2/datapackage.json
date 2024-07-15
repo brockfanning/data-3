@@ -12,7 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MICS(2019)",
+                "Zimstat, 2022 PHC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Reference area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulawayo",
+                "Manicaland",
+                "Mashonaland Central",
+                "Masholanad East",
+                "Mashonaland West",
+                "Matabeland North",
+                "Matabeland South",
+                "Midlands",
+                "Masvingo",
+                "Harare",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,6 +1,38 @@
 Indicator,Disaggregations,Number of disaggregations
-#17-8-1,Reference area,1
-#3-1-1,Reference area,1
-#3-2-1,Reference area,1
-#8-5-2,"Reference area, Sex",2
-#8-6-1,"Reference area, Sex",2
+#1-1-1,Sex,1
+#1-2-1,Sex,1
+#10-3-1,Sex,1
+#11-1-1,"SOURCE_DETAIL, Reference area",2
+#16-1-4,Sex,1
+#16-3-1,Sex,1
+#16-9-1,SOURCE_DETAIL,1
+#16-b-1,Sex,1
+#17-8-1,"Sex, SOURCE_DETAIL, Reference area",3
+#2-2-1,SOURCE_DETAIL,1
+#2-2-2,SOURCE_DETAIL,1
+#3-1-1,"SOURCE_DETAIL, Reference area",2
+#3-1-2,SOURCE_DETAIL,1
+#3-2-1,"SOURCE_DETAIL, Reference area",2
+#3-2-2,"SOURCE_DETAIL, Reference area",2
+#3-7-1,SOURCE_DETAIL,1
+#3-7-2,SOURCE_DETAIL,1
+#3-b-1,SDG Series,1
+#4-1-1,SOURCE_DETAIL,1
+#4-2-1,SOURCE_DETAIL,1
+#4-2-2,"Sex, SOURCE_DETAIL",2
+#4-4-1,"Sex, Age",2
+#4-5-1,SDG Series,1
+#4-c-1,"SOURCE_DETAIL, Education level",2
+#5-2-1,SOURCE_DETAIL,1
+#5-5-1,"SOURCE_DETAIL, Age",2
+#5-5-2,SOURCE_DETAIL,1
+#5-b-1,"Sex, SOURCE_DETAIL",2
+#6-1-1,SOURCE_DETAIL,1
+#6-2-1,SOURCE_DETAIL,1
+#7-1-1,SOURCE_DETAIL,1
+#7-1-2,SOURCE_DETAIL,1
+#7-2-1,SOURCE_DETAIL,1
+#8-5-2,"Sex, Reference area",2
+#8-6-1,"Sex, Reference area, Age",3
+#8-7-1,SOURCE_DETAIL,1
+#9-2-2,SOURCE_DETAIL,1
