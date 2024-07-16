@@ -105,7 +105,7 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
-  - geojson_file: geojson/National_By_District.geojson
+  - geojson_file: geojsons/National_By_District.geojson
     name_property: ADM1_EN
     id_property: ADM1_PCODE
     output_subfolder: regions
