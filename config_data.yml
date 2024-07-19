@@ -43,6 +43,8 @@ inputs:
     dsd: 'LocalRegistry.xml'
     dimension_map:
       REF_AREA|ZW: ''
+      UNIT_MEASURE: Units
+      SERIES: Series
     drop_dimensions:
       - FREQ
       - REPORTING_TYPE
@@ -50,6 +52,7 @@ inputs:
       - TIME_PERIOD
     import_series_attributes: true
     import_observation_attributes: true
+    import_codes: true
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
   - class: InputYamlMeta
@@ -106,6 +109,7 @@ reporting_status_extra_fields: []
 # local, relative to the src_dir specified above.
 map_layers:
   - geojson_file: geojsons/National_By_District.geojson
+    id_column: REF_AREA
     name_property: ADM1_EN
     id_property: ADM1_PCODE
     output_subfolder: regions
