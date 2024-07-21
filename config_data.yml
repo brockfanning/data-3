@@ -56,7 +56,7 @@ inputs:
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
   - class: InputYamlMeta
-    path_pattern: meta/*-*.yml
+    path_pattern: indicator-config/*-*.yml
     git: false
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
@@ -109,7 +109,6 @@ reporting_status_extra_fields: []
 # local, relative to the src_dir specified above.
 map_layers:
   - geojson_file: geojsons/National_By_District.geojson
-    id_column: REF_AREA
     name_property: ADM1_EN
     id_property: ADM1_PCODE
     output_subfolder: regions
